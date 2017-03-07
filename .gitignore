@@ -1,0 +1,5 @@
+target/
+projectFilesBackup/
+idea*/
+.idea_modules/
+.idea
